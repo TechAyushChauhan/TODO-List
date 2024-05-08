@@ -1,0 +1,7 @@
+.home-sidebar{
+    background-color: #3bf87c;;
+    min-height: 100vh;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+}

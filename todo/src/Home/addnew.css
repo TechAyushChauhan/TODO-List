@@ -1,0 +1,33 @@
+.Add-new{
+    min-height: 100vh;
+    min-width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    align-items: center;
+  }
+  .add-new-ele{
+   display: flex;
+   flex-direction: column;
+   padding: 40px;
+   background-color: #f4f4f4;
+  }
+  .add-new-ele > input{
+   height: 20px;
+   padding: 4px;
+   margin-bottom: 30px;
+   border-radius: 5px;
+   }
+   .add-new-ele > button{
+    padding: 3px;
+    background-color: #8c67df;
+    margin-bottom: 20px;
+    width: 323px;
+    height: 28px;
+    border-radius: 8px;
+    border: 0px;
+    font-size: 17px;
+    }
+   .Add-tittle{
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+th,td{
+    border: 1px solid black;
+    margin: 0px;
+}
+.home-main-con{
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: 0.1fr auto;
+}
+.dis-todo-task{
+    display: flex;
+   flex-direction: column;
+   margin: 10px;
+
+}
+.Add-newtask-btn-con{
+    width: 100%;
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+}
+.Add-newtask-btn{
+    margin-right: 30px;
+    background-color: transparent;
+    border: 3px solid #1eea1e;
+    font-size: 15px;
+}
